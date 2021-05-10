@@ -1,5 +1,5 @@
 # sympy-spring-double-pendulum
-This repository hosts a repository where we investigate a
+This repository hosts a report where we investigate a
 spring double pendulum using `sympy` for symbolic computation.
 Taking the limits as spring constants go to infinity as well as setting
 spring constants to zero is used to reduce the spring double pendulum
